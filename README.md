@@ -49,16 +49,6 @@ npx skills add joeseesun/qiaomu-github-publisher
 
 `qiaomu-github-publisher` is an Agent Skill for GitHub release polish. It helps turn working projects into public repositories with a clear README, bilingual About text, useful topics, real verification, and a complete PR-to-main publishing flow.
 
-## About Qiaomu
-
-向阳乔木 / Joe is a practical AI product and workflow builder. He turns frontier AI changes into usable workflows, product judgment, AI coding practice, and GEO / AI-marketing methods.
-
-- Website: https://qiaomu.ai
-- Blog: https://blog.qiaomu.ai
-- Qiaomu tools and recommendations: https://tuijian.qiaomu.ai/
-- X: https://x.com/vista8
-- GitHub: https://github.com/joeseesun/
-
 <!-- qiaomu-profile:start -->
 ## 关于向阳乔木
 
